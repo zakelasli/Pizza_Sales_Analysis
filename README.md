@@ -10,9 +10,12 @@ To enhance the visual understanding of these metrics, we've created various char
 # Chart Requirements:
 Daily Trend for Total Orders: Visualize daily order trends to identify peak ordering hours and busy days for efficient resource allocation.
 Daily Trend Hours: Break down daily trends by hours, revealing specific high and low activity periods.
+
 Percentage of Sales by Pizza Category: Understand customer preferences for different pizza types, guiding inventory management and marketing efforts.
 Percentage of Sales by Pizza Size: Analyze sales distribution across various pizza sizes, aiding pricing strategies and portion offerings.
+
 Total Pizza Sales by Category: Get a detailed breakdown of total sales figures for each pizza category, identifying top-performing products.
 Top 5 Best Sellers by Pizzas Sold: Recognize customer favorites by highlighting the top 5 best-selling pizzas based on units sold.
 Bottom 5 Worst Sellers by Pizzas Total Sold: Evaluate less popular items by identifying the bottom 5 worst-selling pizzas, guiding product and marketing strategies.
+
 By exploring our SQL queries and visualizations, you'll gain valuable insights into customer behavior, preferences, and market trends. Use these findings to refine your business approach, optimize inventory, and create a more satisfying experience for your customers. Feel free to dive into the data, analyze the trends, and leverage these insights to enhance your pizza business.
