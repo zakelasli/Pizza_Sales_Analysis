@@ -19,3 +19,4 @@ Top 5 Best Sellers by Pizzas Sold : Recognize customer favorites by highlighting
 Bottom 5 Worst Sellers by Pizzas Total Sold : Evaluate less popular items by identifying the bottom 5 worst-selling pizzas, guiding product and marketing strategies.
 
 By exploring our SQL queries and visualizations, you'll gain valuable insights into customer behavior, preferences, and market trends. Use these findings to refine your business approach, optimize inventory, and create a more satisfying experience for your customers. Feel free to dive into the data, analyze the trends, and leverage these insights to enhance your pizza business.
+
