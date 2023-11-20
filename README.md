@@ -15,6 +15,11 @@ Percentage of Sales by Pizza Category : Understand customer preferences for diff
 Percentage of Sales by Pizza Size : Analyze sales distribution across various pizza sizes, aiding pricing strategies and portion offerings.
 
 Total Pizza Sales by Category : Get a detailed breakdown of total sales figures for each pizza category, identifying top-performing products.
+
+
+
+![Pizza sales _page-0001](https://github.com/zakelasli/Pizza_Sales_Analysis/assets/149749616/5bf2ef47-4678-444c-89f9-9746c4d5cce9)
+
 Top 5 Best Sellers by Pizzas Sold : Recognize customer favorites by highlighting the top 5 best-selling pizzas based on units sold.
 Bottom 5 Worst Sellers by Pizzas Total Sold : Evaluate less popular items by identifying the bottom 5 worst-selling pizzas, guiding product and marketing strategies.
 
